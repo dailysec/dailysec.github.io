@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets\\img\\favicons",
+    "\\assets\\js",
+    "\\assets\\js\\data",
+    "\\tools"
   ],
-  "SelectedNode": "\\jekyll-theme-chirpy.gemspec",
+  "SelectedNode": "\\tools\\test.sh",
   "PreviewInSolutionExplorer": false
 }
