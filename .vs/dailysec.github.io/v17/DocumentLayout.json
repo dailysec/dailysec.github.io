@@ -96,10 +96,8 @@
               "RelativeDocumentMoniker": "tools\\test.sh",
               "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\tools\\test.sh",
               "RelativeToolTip": "tools\\test.sh",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-09T19:43:23.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T19:43:23.535Z"
             },
             {
               "$type": "Document",
@@ -111,8 +109,7 @@
               "RelativeToolTip": "tools\\run.sh",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-09T19:43:10.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T19:43:10.208Z"
             },
             {
               "$type": "Document",
@@ -124,8 +121,7 @@
               "RelativeToolTip": "tools\\release.sh",
               "ViewState": "AgIAALoAAAAAAAAAAAAAADYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-09T19:42:21.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T19:42:21.216Z"
             },
             {
               "$type": "Document",
@@ -137,8 +133,7 @@
               "RelativeToolTip": "tools\\init.sh",
               "ViewState": "AgIAAFMAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-09T19:41:54.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T19:41:54.32Z"
             },
             {
               "$type": "Document",
@@ -150,8 +145,7 @@
               "RelativeToolTip": "rollup.config.js",
               "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-09T19:40:34.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T19:40:34.579Z"
             },
             {
               "$type": "Document",
@@ -163,8 +157,7 @@
               "RelativeToolTip": "README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-06-09T19:40:31.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T19:40:31.589Z"
             },
             {
               "$type": "Document",
@@ -176,8 +169,7 @@
               "RelativeToolTip": "purgecss.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-09T19:40:27.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T19:40:27.688Z"
             },
             {
               "$type": "Document",
@@ -189,8 +181,7 @@
               "RelativeToolTip": "package.json",
               "ViewState": "AgIAAI8AAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-09T19:40:03.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T19:40:03.546Z"
             },
             {
               "$type": "Document",
@@ -202,8 +193,7 @@
               "RelativeToolTip": "jekyll-theme-chirpy.gemspec",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-09T19:38:58.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T19:38:58.707Z"
             },
             {
               "$type": "Document",
@@ -215,8 +205,7 @@
               "RelativeToolTip": "LICENSE",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-09T19:38:56.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T19:38:56.75Z"
             },
             {
               "$type": "Document",
@@ -228,8 +217,7 @@
               "RelativeToolTip": "_config.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-06-09T19:34:19.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T19:34:19.953Z"
             },
             {
               "$type": "Document",
@@ -241,8 +229,7 @@
               "RelativeToolTip": "eslint.config.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-09T19:38:40.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T19:38:40.624Z"
             },
             {
               "$type": "Document",
@@ -254,21 +241,19 @@
               "RelativeToolTip": "Gemfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-09T19:28:23.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T19:28:23.794Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Pouya\\Source\\Repos\\dailysec.github.io\\index.html",
+              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\index.html",
               "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Users\\Pouya\\Source\\Repos\\dailysec.github.io\\index.html",
+              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\index.html",
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-09T18:56:35.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T18:56:35.933Z"
             },
             {
               "$type": "Document",
@@ -280,8 +265,7 @@
               "RelativeToolTip": "_posts\\2019-08-08-write-a-new-post.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-06-09T18:51:05.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T18:51:05.948Z"
             },
             {
               "$type": "Document",
@@ -293,8 +277,7 @@
               "RelativeToolTip": "_posts\\2019-08-11-customize-the-favicon.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-06-09T18:49:39.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T18:49:39.539Z"
             },
             {
               "$type": "Document",
@@ -306,8 +289,7 @@
               "RelativeToolTip": "_data\\authors.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-06-09T18:47:58.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T18:47:58.099Z"
             },
             {
               "$type": "Document",
@@ -319,8 +301,7 @@
               "RelativeToolTip": "_posts\\2019-08-09-getting-started.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-06-09T18:34:16.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T18:34:16.114Z"
             }
           ]
         }
