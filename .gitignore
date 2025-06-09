@@ -439,3 +439,4 @@ _site/
 vendor/
 _site
 /_site/*
+/.vs/slnx.sqlite
