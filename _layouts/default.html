@@ -146,8 +146,6 @@
         </ul>
       </nav>
       {%- endif -%}
-      <p class="about-footer {{condensed_class}}">&copy;
-        {{ "now" | date: "%Y" }}</p>
       {%- if site.plainwhite.dark_mode -%}
       <div class="about-footer {{condensed_class}}">
         <p>Dark Mode
@@ -158,6 +156,8 @@
           </label>
         </p>
       </div>
+      <p class="about-footer {{condensed_class}}">&copy;
+        {{ "now" | date: "%Y" }}</p>
       {%- endif -%}
       {% endcapture %}
       {{ footer }}

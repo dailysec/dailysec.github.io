@@ -149,7 +149,7 @@ main {
 }
 
 .navigation {
-  width: 80%;
+  /* width: 80%; */
 
   ul {
     list-style-type: none;
@@ -166,12 +166,12 @@ main {
       display: block;
       font-family: 'Merriweather';
       text-align: center;
-      padding: 1rem 0;
+      padding: 0.3rem 0;
       text-decoration: none;
       border-bottom: 1px solid #ececec;
 
       @media screen and (max-width: $mobileW) {
-        padding: 2rem 0;
+        padding: 1rem 0;
       }
     }
   }
@@ -306,16 +306,16 @@ footer {
       align-self: start;
       .about-title {
         flex-direction: row;
-        margin-bottom: 10px;
+        margin-bottom: 5px;
         img {
-          max-height: 40px;
+          max-height: 20px;
         }
         h2 {
-          margin: 0 10px;
+          margin: 0 5px;
         }
       }
       .tagline {
-        font-size: 18px;
+        font-size: 14px;
         margin-bottom: 0px;
       }
     }
@@ -327,7 +327,7 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 0 40px;
+    margin: 0 20px;
     @media screen and (max-width: $smallMobileW){
       margin: 0 20px;
     }
