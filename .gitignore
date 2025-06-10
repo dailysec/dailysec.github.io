@@ -410,5 +410,4 @@ vendor/
 _site
 /_site/*
 
-.vs/*
-/.vs/dailysec.github.io/v17/.wsuo
+/.vs/*
