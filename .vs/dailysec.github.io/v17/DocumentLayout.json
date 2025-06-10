@@ -3,76 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\tools\\test.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tools\\test.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_layouts\\default.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\default.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\tools\\run.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tools\\run.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_layouts\\home.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\home.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\tools\\release.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tools\\release.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\tools\\init.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tools\\init.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_sass\\plain.scss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_sass\\plain.scss||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_config.yml||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\rollup.config.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rollup.config.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\Source\\Repos\\dailysec.github.io\\_posts\\2025-06-09-welcome-to-dailysec.markdown||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2025-06-09-welcome-to-dailysec.markdown||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\purgecss.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:purgecss.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\package.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\jekyll-theme-chirpy.gemspec||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:jekyll-theme-chirpy.gemspec||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\Source\\Repos\\dailysec.github.io\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\Gemfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gemfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\eslint.config.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eslint.config.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_posts\\2019-08-08-write-a-new-post.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2019-08-08-write-a-new-post.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_posts\\2019-08-11-customize-the-favicon.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2019-08-11-customize-the-favicon.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_data\\authors.yml||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\authors.yml||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_posts\\2019-08-09-getting-started.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2019-08-09-getting-started.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_layouts\\post.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\post.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,218 +42,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "test.sh",
-              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\tools\\test.sh",
-              "RelativeDocumentMoniker": "tools\\test.sh",
-              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\tools\\test.sh",
-              "RelativeToolTip": "tools\\test.sh",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-09T19:43:23.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "run.sh",
-              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\tools\\run.sh",
-              "RelativeDocumentMoniker": "tools\\run.sh",
-              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\tools\\run.sh",
-              "RelativeToolTip": "tools\\run.sh",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-09T19:43:10.208Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "release.sh",
-              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\tools\\release.sh",
-              "RelativeDocumentMoniker": "tools\\release.sh",
-              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\tools\\release.sh",
-              "RelativeToolTip": "tools\\release.sh",
-              "ViewState": "AgIAALoAAAAAAAAAAAAAADYAAAAGAAAAAAAAAA==",
+              "Title": "plain.scss",
+              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_sass\\plain.scss",
+              "RelativeDocumentMoniker": "_sass\\plain.scss",
+              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_sass\\plain.scss",
+              "RelativeToolTip": "_sass\\plain.scss",
+              "ViewState": "AgIAADsBAAAAAAAAAAAQwFABAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-09T19:42:21.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "init.sh",
-              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\tools\\init.sh",
-              "RelativeDocumentMoniker": "tools\\init.sh",
-              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\tools\\init.sh",
-              "RelativeToolTip": "tools\\init.sh",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-09T19:41:54.32Z"
+              "WhenOpened": "2025-06-09T20:53:36.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "rollup.config.js",
-              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\rollup.config.js",
-              "RelativeDocumentMoniker": "rollup.config.js",
-              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\rollup.config.js",
-              "RelativeToolTip": "rollup.config.js",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-09T19:40:34.579Z"
+              "Title": "post.html",
+              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_layouts\\post.html",
+              "RelativeDocumentMoniker": "_layouts\\post.html",
+              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_layouts\\post.html",
+              "RelativeToolTip": "_layouts\\post.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-09T20:34:58.294Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\README.md",
-              "RelativeToolTip": "README.md",
+              "DocumentIndex": 1,
+              "Title": "home.html",
+              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_layouts\\home.html",
+              "RelativeDocumentMoniker": "_layouts\\home.html",
+              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_layouts\\home.html",
+              "RelativeToolTip": "_layouts\\home.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-06-09T19:40:31.589Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-09T20:34:54.931Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "purgecss.js",
-              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\purgecss.js",
-              "RelativeDocumentMoniker": "purgecss.js",
-              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\purgecss.js",
-              "RelativeToolTip": "purgecss.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-09T19:40:27.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "package.json",
-              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\package.json",
-              "RelativeDocumentMoniker": "package.json",
-              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\package.json",
-              "RelativeToolTip": "package.json",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-09T19:40:03.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "jekyll-theme-chirpy.gemspec",
-              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\jekyll-theme-chirpy.gemspec",
-              "RelativeDocumentMoniker": "jekyll-theme-chirpy.gemspec",
-              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\jekyll-theme-chirpy.gemspec",
-              "RelativeToolTip": "jekyll-theme-chirpy.gemspec",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-09T19:38:58.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LICENSE",
-              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\LICENSE",
-              "RelativeDocumentMoniker": "LICENSE",
-              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\LICENSE",
-              "RelativeToolTip": "LICENSE",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-09T19:38:56.75Z"
+              "DocumentIndex": 0,
+              "Title": "default.html",
+              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_layouts\\default.html",
+              "RelativeDocumentMoniker": "_layouts\\default.html",
+              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_layouts\\default.html",
+              "RelativeToolTip": "_layouts\\default.html",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAlwJ0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-09T20:34:52.991Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "2025-06-09-welcome-to-dailysec.markdown",
+              "DocumentMoniker": "C:\\Users\\Pouya\\Source\\Repos\\dailysec.github.io\\_posts\\2025-06-09-welcome-to-dailysec.markdown",
+              "RelativeDocumentMoniker": "_posts\\2025-06-09-welcome-to-dailysec.markdown",
+              "ToolTip": "C:\\Users\\Pouya\\Source\\Repos\\dailysec.github.io\\_posts\\2025-06-09-welcome-to-dailysec.markdown",
+              "RelativeToolTip": "_posts\\2025-06-09-welcome-to-dailysec.markdown",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-09T20:21:39.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_config.yml",
               "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_config.yml",
               "RelativeDocumentMoniker": "_config.yml",
               "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_config.yml",
               "RelativeToolTip": "_config.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-06-09T19:34:19.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "eslint.config.js",
-              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\eslint.config.js",
-              "RelativeDocumentMoniker": "eslint.config.js",
-              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\eslint.config.js",
-              "RelativeToolTip": "eslint.config.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-09T19:38:40.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Gemfile",
-              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\Gemfile",
-              "RelativeDocumentMoniker": "Gemfile",
-              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\Gemfile",
-              "RelativeToolTip": "Gemfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-09T19:28:23.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\index.html",
-              "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-09T18:56:35.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "2019-08-08-write-a-new-post.md",
-              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_posts\\2019-08-08-write-a-new-post.md",
-              "RelativeDocumentMoniker": "_posts\\2019-08-08-write-a-new-post.md",
-              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_posts\\2019-08-08-write-a-new-post.md",
-              "RelativeToolTip": "_posts\\2019-08-08-write-a-new-post.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-06-09T18:51:05.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "2019-08-11-customize-the-favicon.md",
-              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_posts\\2019-08-11-customize-the-favicon.md",
-              "RelativeDocumentMoniker": "_posts\\2019-08-11-customize-the-favicon.md",
-              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_posts\\2019-08-11-customize-the-favicon.md",
-              "RelativeToolTip": "_posts\\2019-08-11-customize-the-favicon.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-06-09T18:49:39.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "authors.yml",
-              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_data\\authors.yml",
-              "RelativeDocumentMoniker": "_data\\authors.yml",
-              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_data\\authors.yml",
-              "RelativeToolTip": "_data\\authors.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-06-09T18:47:58.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "2019-08-09-getting-started.md",
-              "DocumentMoniker": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_posts\\2019-08-09-getting-started.md",
-              "RelativeDocumentMoniker": "_posts\\2019-08-09-getting-started.md",
-              "ToolTip": "C:\\Users\\Pouya\\source\\repos\\dailysec.github.io\\_posts\\2019-08-09-getting-started.md",
-              "RelativeToolTip": "_posts\\2019-08-09-getting-started.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-06-09T18:34:16.114Z"
+              "WhenOpened": "2025-06-09T20:13:28.925Z",
+              "EditorCaption": ""
             }
           ]
         }
