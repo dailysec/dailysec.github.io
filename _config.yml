@@ -1,5 +1,5 @@
 title: Daily Security
-author: Pouya47
+author: Amiri
 email: mail at dailysec.ir
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -15,8 +15,8 @@ sass:
 
 
 plainwhite:
-  name: Pouya47
-  tagline: Security Expert, Father
+  name: Daily Security
+  tagline: Cyber Security Blog
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -29,7 +29,7 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: Pouya47
+    #twitter: Pouya47
     github:  Pouya47
     linkedIn: in/amiri-link/
     #dribbble: jekyll
@@ -41,7 +41,7 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    email: mail [a] dailysec.ir
 
     # Mastodon instances
     # mastodon:
